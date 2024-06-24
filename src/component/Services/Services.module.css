@@ -20,13 +20,13 @@
             width: 250px;
             margin: 0 50px;
             & svg{
-                color: #0085FF;
+                color: #3D52A0;
                 width: 80px;
                 height: 80px;
             }
 
             & h4{
-                color: #0085FF;
+                color: #3D52A0;
                 font-size: 24px;
                 font-weight: bold;
                 margin: 25px 0;

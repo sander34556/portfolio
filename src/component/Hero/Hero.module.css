@@ -1,6 +1,7 @@
 .hero_wrapper{
     height: 500px;
     overflow: hidden;
+    background-color: #fff ;
 
     & .container{
         max-width: 1170px;
@@ -19,7 +20,8 @@
         & .text_2{
             font-size: 64px;
             font-weight: bold;
-            color: #0085FF;
+            color: #3D52A0;
+            
         }
 
         & .text_3{

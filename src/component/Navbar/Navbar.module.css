@@ -1,5 +1,5 @@
 nav {
-  background-color: #0085ff;
+    background: rgb(39, 41, 59);
     overflow: hidden;
     position: relative;
   & a {
